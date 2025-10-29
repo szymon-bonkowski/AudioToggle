@@ -1,0 +1,75 @@
+MIT License with Non-Commercial and Attribution Requirements
+
+Copyright (c) 2025 Szymon Bonkowski
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use,
+copy, modify, merge, and distribute the Software, subject to the following
+conditions:
+
+1. ATTRIBUTION REQUIREMENT
+   Any use, distribution, or derivative work of this Software must include
+   clear and visible attribution to the original author, Szymon Bonkowski,
+   including a link to the original repository:
+   https://github.com/szymonbonkowski/AudioToggle
+
+2. NON-COMMERCIAL USE ONLY
+   This Software may NOT be used for commercial purposes. Commercial purposes
+   include, but are not limited to:
+   - Selling the Software or any derivative works
+   - Using the Software in any product or service that generates revenue
+   - Including the Software in paid applications or subscriptions
+   - Monetizing the Software through advertisements, in-app purchases, or any
+     other revenue-generating mechanisms
+
+3. DISTRIBUTION
+   You may distribute copies of the Software, provided that:
+   - All copyright notices and this license remain intact
+   - Attribution to the original author is clearly visible
+   - The Software is not used for commercial purposes
+   - Any modifications are clearly marked as such
+
+4. MODIFICATIONS
+   You may modify the Software and distribute your modifications, provided that:
+   - You clearly state that changes were made
+   - Your modifications are also subject to this license
+   - You provide attribution to the original author
+   - Your modifications are not used commercially
+
+5. DERIVATIVE WORKS
+   If you create derivative works based on this Software, you must:
+   - Clearly indicate that your work is derived from this Software
+   - Provide prominent attribution to the original author
+   - Apply this same license to your derivative work
+   - Not use the derivative work for commercial purposes
+
+6. DISCLAIMER OF WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+   THE SOFTWARE.
+
+7. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+   SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+   PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS;
+   OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+   WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
+   OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
+   ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+8. TERMINATION
+   This license automatically terminates if you fail to comply with any of its
+   terms and conditions. Upon termination, you must destroy all copies of the
+   Software in your possession.
+
+9. CONTACT FOR COMMERCIAL USE
+   If you wish to use this Software for commercial purposes, you must contact
+   the author at https://github.com/szymonbonkowski to obtain written permission
+   and negotiate appropriate licensing terms.
+
+For questions about this license, please open an issue at:
+https://github.com/szymonbonkowski/AudioToggle/issues
