@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Audio Toggle</string>
+
+    <string name="instructions">App settings — quick links\n\n1) Disable battery optimization (No restrictions)\n2) Turn off &quot;Pause app activity if unused&quot;\n\nTap a button to open the appropriate screen.</string>
+
+    <string name="btn_battery">Disable battery optimization (No restrictions)</string>
+    <string name="btn_pause">App settings: Pause app activity if unused</string>
+    <string name="btn_github">Source Code</string>
+</resources>

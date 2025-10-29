@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:padding="24dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Audio Output Toggle"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:paddingBottom="16dp" />
+
+        <TextView
+            android:id="@+id/tv_how_to_use"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="How to use:\n\n1. Swipe down from the top of the screen to open Quick Settings (Control Center)\n2. Tap the edit/pencil icon to edit tiles\n3. Find the &quot;Audio Output&quot; tile\n4. Drag it into the active tiles area\n5. Tap the tile to toggle audio output between speaker and headphones"
+            android:textSize="14sp"
+            android:lineSpacingExtra="4dp"
+            android:paddingBottom="16dp" />
+
+        <TextView
+            android:id="@+id/tv_important"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Important (to keep the app working reliably in background):\n\n• Turn off battery optimizations for this app (so Android won't stop the background service).\n• Allow the app to run in background / disable &quot;Pause app activity&quot; or similar battery restrictions in App Info.\n\nUse the buttons below to jump to the appropriate system settings pages."
+            android:textSize="14sp"
+            android:lineSpacingExtra="4dp"
+            android:paddingBottom="24dp" />
+
+        <Button
+            android:id="@+id/btn_battery"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_battery" />
+
+        <Button
+            android:id="@+id/btn_pause"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_pause"
+            android:layout_marginTop="12dp" />
+
+        <Button
+            android:id="@+id/btn_github"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_github"
+            android:layout_marginTop="12dp" />
+
+    </LinearLayout>
+</ScrollView>
