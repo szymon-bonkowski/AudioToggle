@@ -1,5 +1,6 @@
 # AudioToggle
 
+[![Release](https://img.shields.io/github/v/release/szymonbonkowski/AudioToggle)](https://github.com/szymonbonkowski/AudioToggle/releases)
 [![Android](https://img.shields.io/badge/Android-9.0%2B-green.svg)](https://www.android.com)
 [![Stars flat](https://img.shields.io/github/stars/szymonbonkowski/AudioToggle?style=flat&color=FFD700)](https://github.com/szymonbonkowski/AudioToggle/stargazers)
 
