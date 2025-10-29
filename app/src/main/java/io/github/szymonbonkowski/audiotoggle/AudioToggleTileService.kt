@@ -1,4 +1,4 @@
-package com.example.audiotoggle
+package io.github.szymonbonkowski.audiotoggle
 
 import android.content.Intent
 import android.os.Build

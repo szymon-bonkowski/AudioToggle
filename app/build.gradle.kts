@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.audiotoggle"
+    namespace = "io.github.szymonbonkowski.audiotoggle"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.audiotoggle"
+        applicationId = "io.github.szymonbonkowski.audiotoggle"
         minSdk = 28
         targetSdk = 36
         versionCode = 1

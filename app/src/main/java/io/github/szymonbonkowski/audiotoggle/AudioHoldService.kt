@@ -1,4 +1,4 @@
-package com.example.audiotoggle
+package io.github.szymonbonkowski.audiotoggle
 
 import android.app.Notification
 import android.app.NotificationChannel
@@ -7,6 +7,7 @@ import android.app.Service
 import android.content.Intent
 import android.content.pm.ServiceInfo
 import android.media.AudioAttributes
+import android.media.AudioFocusRequest
 import android.media.AudioFormat
 import android.media.AudioManager
 import android.media.AudioTrack
@@ -88,7 +89,7 @@ class AudioHoldService : Service() {
                     .setUsage(AudioAttributes.USAGE_VOICE_COMMUNICATION)
                     .setContentType(AudioAttributes.CONTENT_TYPE_SPEECH)
                     .build()
-                val afr = android.media.AudioFocusRequest.Builder(AudioManager.AUDIOFOCUS_GAIN)
+                val afr = AudioFocusRequest.Builder(AudioManager.AUDIOFOCUS_GAIN)
                     .setAudioAttributes(attr)
                     .setOnAudioFocusChangeListener { /* no-op */ }
                     .build()
