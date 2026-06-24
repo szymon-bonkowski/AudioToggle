@@ -1,8 +1,8 @@
 # AudioToggle
 
-[![Release](https://img.shields.io/github/v/release/szymonbonkowski/AudioToggle)](https://github.com/szymonbonkowski/AudioToggle/releases)
+[![Release](https://img.shields.io/github/v/release/szymon-bonkowski/AudioToggle)](https://github.com/szymon-bonkowski/AudioToggle/releases)
 [![Android](https://img.shields.io/badge/Android-9.0%2B-green.svg)](https://www.android.com)
-[![Stars flat](https://img.shields.io/github/stars/szymonbonkowski/AudioToggle?style=flat&color=FFD700)](https://github.com/szymonbonkowski/AudioToggle/stargazers)
+[![Stars flat](https://img.shields.io/github/stars/szymonbonkowski/AudioToggle?style=flat&color=FFD700)](https://github.com/szymon-bonkowski/AudioToggle/stargazers)
 
 Quick Settings tile for Android that forces audio output to speaker when connected to Bluetooth devices.
 
